@@ -1,0 +1,2 @@
+# Zakupy
+Projekt na zaliczenie
