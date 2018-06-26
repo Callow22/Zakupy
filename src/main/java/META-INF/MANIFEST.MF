@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Sebastian\IdeaProjects\Zakupy.1.0\target\classes\
+ ProjektZakupy
+Main-Class: ProjektZakupy.Main
+
