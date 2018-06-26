@@ -1,0 +1,16 @@
+Wzorzec projektowy singleton wykorzystuje w klasie ListaZakup. Wzorzec factory method jest wykorzystywany w klasie ZakupFactory
+do tworzenia obiektu, gdy zosta³y podane wszystkie atrybuty, gdy nie tworzy pusty obiekt (klasa NullProdukt) korzystajac z wzorca NullObject.
+
+Dekomponujê odpowiedzialnoœæ, poszczególne klasy s¹ odpowiedzialne za niewielkie funkcjonalnoœci programu.
+
+Projekt jest Mavenowy, stworzy³em plik jar.
+
+Stworzy³em 5 testów jednostkowych,
+maj¹ status Passed.
+
+Projekt jest umieszczony pod kontrol¹ wersji za pomoc¹ GITa.
+
+korzystam z interfejsów (ZakupInterface implementowany przez klasê Produkt) i klas abstrakcyjnych(klasa AbstractZakup).
+
+Polmiorfizm	W klasach Produkt i NullProdukt przes³aniam metody klasy AbstractZakup
+
